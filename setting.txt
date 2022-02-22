@@ -1,0 +1,8 @@
+empty_size:0
+
+empty_course_size:0
+
+
+Student_Count:1000
+Course_Count:50
+Score_num:10000
